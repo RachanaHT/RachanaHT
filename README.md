@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Automation
 - 🌱 I’m currently learning Cypress
-- 📫 How to reach me: [linkedin](linkedin.com/in/rachana-ht-846010169)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/rachana-ht-846010169/)
 
 
 <!-- --> 
