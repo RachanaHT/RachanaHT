@@ -3,7 +3,7 @@
 <!-- <--
 **RachanaHT/RachanaHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+### Some Things About Me:
 
 - 🔭 I’m currently working on Automation
 - 🌱 I’m currently learning Cypress
