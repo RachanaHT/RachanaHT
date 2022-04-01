@@ -5,7 +5,7 @@
 
 ### Some Things About Me:
 
-- 🔭 I’m currently working as QA Automation Engineer
+- 🔭 I’m currently working as SDET
 - 🌱 I’m currently learning Cypress
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/rachana-ht-846010169/)
 
