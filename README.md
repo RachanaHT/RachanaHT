@@ -9,7 +9,7 @@
 -  I’m currently learning Cypress
 -  Passionate QA who loves discovering the unexpected!
 
-<!-- -->
+--- 
  📫 How to reach me: 
 
 <!-- SOCAIL MEDIA HANDLES -->
@@ -17,6 +17,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Rachana_HT-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachanaht1218@gmail.com)](mailto:rachanaht1218@gmail.com)
 
+---
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanaht&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
