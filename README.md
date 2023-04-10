@@ -15,7 +15,7 @@
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-Rachana_HT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachana-h-t-846010169/)](https://www.linkedin.com/in/rachana-h-t-846010169/)
 
-[![Gmail Badge](https://img.shields.io/badge/-rachanaht1218@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachanaht1218@gmail.com)](mailto:rachanaht1218@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Rachana_HT-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachanaht1218@gmail.com)](mailto:rachanaht1218@gmail.com)
 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanaht&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
