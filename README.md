@@ -13,3 +13,6 @@
 <!-- --> 
 
 ![rachana's github stats](https://github-readme-stats.vercel.app/api?username=RachanaHT&show_icons=true&count_private=true&hide=issues,prs)
+
+<!-- SOCAIL MEDIA HANDLES -->
+[![Linkedin Badge](https://img.shields.io/badge/-Rachana_HT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachana-h-t-846010169/)](https://www.linkedin.com/in/rachana-h-t-846010169/)
