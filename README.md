@@ -20,6 +20,6 @@
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanaht&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
-  <!--- --->
+  --- 
   ![rachana's github stats](https://github-readme-stats.vercel.app/api?username=RachanaHT&show_icons=true&count_private=true&hide=issues,prs)
  
