@@ -27,3 +27,6 @@
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/rachanaht/count.svg?align=center)
+
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=rachanaht)  
