@@ -6,7 +6,7 @@
 ### Some Things About Me:
 
 -  I’m currently working as SDET
--  I’m currently learning Cypress
+-  I’m currently working/learning Cypress, Playwright
 -  Passionate QA who loves discovering the unexpected!
 
 --- 
